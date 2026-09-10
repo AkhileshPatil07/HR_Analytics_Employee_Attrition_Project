@@ -2,7 +2,6 @@
 
 A machine learning project that predicts whether an employee is likely to leave a company, based on their profile — demographics, job role, compensation, tenure, and satisfaction scores. The project follows a **modular ML pipeline architecture**, separating data ingestion, transformation, model training, and prediction into independent, testable components.
 
-This project extends an earlier [HR Analytics EDA & Power BI dashboard](https://github.com/Hariomdubey01/End-to-End-HR-Analytics-Employee-Attrition-Dashboard), moving from *descriptive* analytics ("what happened") to *predictive* analytics ("who is likely to leave next").
 
 ---
 
@@ -145,7 +144,7 @@ Dataclasses that separate *configuration* (what a stage needs) from *artifacts* 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clonehttps://github.com/Akhi leshPatil07/HR_Analytics_Employee_Attrition_Project
 cd Employee_Attrition_Prediction
 ```
 
@@ -239,7 +238,8 @@ Attrition Probability + Risk Label
 
 ## 👨‍💻 Author
 
-**[Akhilesh Patil]**
+**Akhilesh Patil**
+
 Data Analyst / Data Scientist with hands-on experience in Python, SQL, Machine Learning, and Data Analysis.
 
 ---
