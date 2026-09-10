@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+logs/
+.ipynb_checkpoints/
+.DS_Store
+artifacts/*.pkl
+artifacts/*.csv
+artifacts/*.json
