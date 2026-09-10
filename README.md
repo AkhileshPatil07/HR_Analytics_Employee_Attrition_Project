@@ -144,7 +144,7 @@ Dataclasses that separate *configuration* (what a stage needs) from *artifacts* 
 
 ### 1. Clone the repository
 ```bash
-git clonehttps://github.com/Akhi leshPatil07/HR_Analytics_Employee_Attrition_Project
+git clonehttps://github.com/AkhileshPatil07/HR_Analytics_Employee_Attrition_Project
 cd Employee_Attrition_Prediction
 ```
 
